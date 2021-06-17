@@ -60,7 +60,7 @@ try:
     driver.close()
 
     ### Téléchargement des fichiers
-    download(cours)
+    download(cours,username,password)
 
 
 
